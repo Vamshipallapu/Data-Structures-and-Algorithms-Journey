@@ -67,6 +67,9 @@ Each node in the inked list is represented by the two values i.e, Data and the p
 
 
 **Traversing over the linked list**
+
+
+
 ![image](https://user-images.githubusercontent.com/44836993/169752103-fb673e4e-9175-405e-a281-8671175278b4.png)
 
 
