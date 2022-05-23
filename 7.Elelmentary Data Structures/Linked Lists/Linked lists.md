@@ -26,3 +26,47 @@ The Worst case to search in an linked list is O(n) coz for the worst need to sea
 
 
 ![image](https://user-images.githubusercontent.com/44836993/169693464-64036767-156e-4037-8a9a-d9a71097ba47.png)
+
+
+**Comparision of arrays to linked lists:**
+Arrays can be used to store linear data of similar types the limitations of arrays over linked lists are:
+1. The size of the arrays is fixed so we have to know the upper limit of the array in advance.
+2. Inserting and deletion of an element is expensive in an array because to insert or delete an element we need to move all the remaining elements in that array.
+3. So Dynamic Size and Ease of insertion and deletion are the advantages over arrays.
+**Disadvantages of linked lists**
+1. random access of the elements is not allowed.we have to access elements sequentially starting from the first node.
+2. Extra memory space is required for the pointer.
+
+
+
+The First node of the linked list is called the Head of the linked list.
+Each node in the inked list is represented by the two values i.e, Data and the pointer.
+
+![image](https://user-images.githubusercontent.com/44836993/169747950-c1e472d4-abf5-4b74-8e5b-1601d62289e1.png)
+
+
+![image](https://user-images.githubusercontent.com/44836993/169748051-77a174a7-adcf-4524-979d-70372ba23727.png)
+
+
+
+
+![image](https://user-images.githubusercontent.com/44836993/169748796-b15fe6d7-0611-499b-a2dd-a5f26ddbf0a1.png)
+
+![image](https://user-images.githubusercontent.com/44836993/169748846-46faa348-0e34-4d7d-95fd-edb3a4214a09.png)
+
+![image](https://user-images.githubusercontent.com/44836993/169748873-f6d62297-c01e-472c-8a6b-17d70fc9447d.png)
+
+
+
+![image](https://user-images.githubusercontent.com/44836993/169749029-d5c6456e-cfc9-427c-8411-29cd336a0535.png)
+
+
+
+
+
+
+
+**Traversing over the linked list**
+![image](https://user-images.githubusercontent.com/44836993/169752103-fb673e4e-9175-405e-a281-8671175278b4.png)
+
+
